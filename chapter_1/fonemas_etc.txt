@@ -1,0 +1,27 @@
+A linguagem humana é composta por quatro blocos principais: fonemas, morfemas e lexemas, sintaxe e contexto.
+
+Fonemas:
+Fonemas são as menores unidades de som em uma linguagem. Podem ou nao ter algum significado 
+Por exemplo, a palavra “fixo”é pronunciada da seguinte forma:
+- fixo
+/f/ /i/ /k/ /s/ /o/
+Repare que ela tem 4 letras, mas 5 fonemas
+- que
+/qu/ /e/
+A palavra que tem 3 letras e 2 fonemas.
+
+Morfema:
+É a unidade lingustica minima portadora de significado que nao se pode dividir em unidedas mais pequenas sem passa ao nivel fonológico
+Exemplo:
+comer – comia – comem – comilão: com é o morfema lexical da palavra comer
+
+Lexemas:
+Lexemas sao a forma estrutural variativa dos morfemas relacionados um ao outro pelo significado. Por exemplo:
+As palavras menino, menina, meninos e meninas fazem parte de um mesmo lexema.
+As palavras lindo, linda, lindos, lindas, lindinha e lindíssima integram o mesmo lexema adjetivo.
+
+Sintaxe:
+Sao um conjunto de regras que controem o sentido gramatical das palavras e frase de uma linguagem, bem como a relação lógica das frases entre si.
+
+Contexto:
+É como varias partes de uma linguagem se juntam e convergem em um particular significado. Uma frase pode mudar de significado conforme a situação.
